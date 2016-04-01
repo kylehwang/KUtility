@@ -1,0 +1,16 @@
+C:\Users\alfafocus\Documents\Visual Studio 2013\Projects\AlfaFocus_V2\KUtility\bin\Release\KUtility.dll
+C:\Users\alfafocus\Documents\Visual Studio 2013\Projects\AlfaFocus_V2\KUtility\bin\Release\KUtility.pdb
+C:\Users\alfafocus\Documents\Visual Studio 2013\Projects\AlfaFocus_V2\KUtility\bin\Release\KConverter.dll
+C:\Users\alfafocus\Documents\Visual Studio 2013\Projects\AlfaFocus_V2\KUtility\bin\Release\Newtonsoft.Json.dll
+C:\Users\alfafocus\Documents\Visual Studio 2013\Projects\AlfaFocus_V2\KUtility\bin\Release\Newtonsoft.Json.OLD.dll
+C:\Users\alfafocus\Documents\Visual Studio 2013\Projects\AlfaFocus_V2\KUtility\bin\Release\itextsharp.dll
+C:\Users\alfafocus\Documents\Visual Studio 2013\Projects\AlfaFocus_V2\KUtility\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\alfafocus\Documents\Visual Studio 2013\Projects\AlfaFocus_V2\KUtility\bin\Release\KExceptionHandler.dll
+C:\Users\alfafocus\Documents\Visual Studio 2013\Projects\AlfaFocus_V2\KUtility\bin\Release\itextsharp.xmlworker.dll
+C:\Users\alfafocus\Documents\Visual Studio 2013\Projects\AlfaFocus_V2\KUtility\bin\Release\KConverter.pdb
+C:\Users\alfafocus\Documents\Visual Studio 2013\Projects\AlfaFocus_V2\KUtility\bin\Release\Newtonsoft.Json.xml
+C:\Users\alfafocus\Documents\Visual Studio 2013\Projects\AlfaFocus_V2\KUtility\bin\Release\itextsharp.xml
+C:\Users\alfafocus\Documents\Visual Studio 2013\Projects\AlfaFocus_V2\KUtility\bin\Release\Microsoft.Office.Interop.Excel.xml
+C:\Users\alfafocus\Documents\Visual Studio 2013\Projects\AlfaFocus_V2\KUtility\obj\Release\KUtility.csprojResolveAssemblyReference.cache
+C:\Users\alfafocus\Documents\Visual Studio 2013\Projects\AlfaFocus_V2\KUtility\obj\Release\KUtility.dll
+C:\Users\alfafocus\Documents\Visual Studio 2013\Projects\AlfaFocus_V2\KUtility\obj\Release\KUtility.pdb
